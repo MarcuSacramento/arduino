@@ -1,2 +1,13 @@
-# arduino
+# Arduino
 Repositório para os Projetos de Arduino
+
+| Projeto                          | Plataforma  |       |       |
+|----------------------------------|-------------|-------|-------|
+| Carbon Monoxide - LCD Nokia 5110 |[![[Arduino]](https://img.shields.io/badge/arduino-uno-blue.svg?style=flat-square)](https://www.arduino.cc/en/Main/arduinoBoardUno)  | ![](https://img.shields.io/badge/dificuldade-média-yellow.svg?style=flat-square)|![](https://img.shields.io/badge/R%24-49,00-yellow.svg?style=flat-square)|
+| DHIT - LCD Nokia 5110            | [![[Arduino]](https://img.shields.io/badge/arduino-uno-blue.svg?style=flat-square)](https://www.arduino.cc/en/Main/arduinoBoardUno) | ![](https://img.shields.io/badge/dificuldade-média-yellow.svg?style=flat-square)|![](https://img.shields.io/badge/R%24-28,00-yellow.svg?style=flat-square)|
+| DHIT - Temperatura e humidade    |  [![[Arduino]](https://img.shields.io/badge/arduino-uno-blue.svg?style=flat-square)](https://www.arduino.cc/en/Main/arduinoBoardUno) | ![](https://img.shields.io/badge/dificuldade-fácil-brightgreen.svg?style=flat-square)|![](https://img.shields.io/badge/R%24-10,00-green.svg?style=flat-square)|
+| RF24                             |   [![[Arduino]](https://img.shields.io/badge/arduino-uno-lightgray.svg?style=flat-square)](https://www.arduino.cc/en/Main/arduinoBoardUno)        |       | 
+| Shield Teclado LCD 16x02         |  [![[Arduino]](https://img.shields.io/badge/arduino-uno-blue.svg?style=flat-square)](https://www.arduino.cc/en/Main/arduinoBoardUno) | ![](https://img.shields.io/badge/dificuldade-média-orange.svg?style=flat-square)|![](https://img.shields.io/badge/R%24-29,00-yellow.svg?style=flat-square)|
+| Soil Moisture Humidity           |   [![[Arduino]](https://img.shields.io/badge/arduino-uno-blue.svg?style=flat-square)](https://www.arduino.cc/en/Main/arduinoBoardUno) | ![](https://img.shields.io/badge/dificuldade-fácil-brightgreen.svg?style=flat-square)|![](https://img.shields.io/badge/R%24-11,00-green.svg?style=flat-square)|
+| Stepper Motor - Joystick         |  [![[Arduino]](https://img.shields.io/badge/arduino-uno-blue.svg?style=flat-square)](https://www.arduino.cc/en/Main/arduinoBoardUno) | ![](https://img.shields.io/badge/dificuldade-média-orange.svg?style=flat-square)|![](https://img.shields.io/badge/R%24-23,00-green.svg?style=flat-square)|
+| Termometro com Mostrador          |  [![[Arduino]](https://img.shields.io/badge/arduino-uno-blue.svg?style=flat-square)](https://www.arduino.cc/en/Main/arduinoBoardUno) | ![](https://img.shields.io/badge/dificuldade-fácil-brightgreen.svg?style=flat-square)|![](https://img.shields.io/badge/R%24-10,00-green.svg?style=flat-square)|
