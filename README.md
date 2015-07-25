@@ -1,7 +1,7 @@
 # Arduino
 Repositório para os Projetos de Arduino
 
-| Projeto                          | Plataforma  |       |       |
+| Projeto                          | Plataforma  | Dificuldade      |Custo       |
 |----------------------------------|-------------|-------|-------|
 | Carbon Monoxide - LCD Nokia 5110 |[![[Arduino]](https://img.shields.io/badge/arduino-uno-blue.svg?style=flat-square)](https://www.arduino.cc/en/Main/arduinoBoardUno)  | ![](https://img.shields.io/badge/dificuldade-média-yellow.svg?style=flat-square)|![](https://img.shields.io/badge/R%24-49,00-yellow.svg?style=flat-square)|
 | DHIT - LCD Nokia 5110            | [![[Arduino]](https://img.shields.io/badge/arduino-uno-blue.svg?style=flat-square)](https://www.arduino.cc/en/Main/arduinoBoardUno) | ![](https://img.shields.io/badge/dificuldade-média-yellow.svg?style=flat-square)|![](https://img.shields.io/badge/R%24-28,00-yellow.svg?style=flat-square)|
