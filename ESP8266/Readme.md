@@ -4,7 +4,7 @@ Apenas para documentar o modo de operação do módulo WiFi
 
 O Módulo funciona pelo envio de Comandos via Serial.
 Para utilizar o Arduino para comunicação Serial, estabelecer que nenhuma porta envie ou receba comandos.
-
+[Vídeo de Exemplo](https://youtu.be/8DMVtXN5pMY)
 ![BreadBoard](https://github.com/MarcuSacramento/arduino/blob/master/ESP8266/Conex%C3%A3o%20Simples_bb.png)
 ![Schematic](https://github.com/MarcuSacramento/arduino/blob/master/ESP8266/Conex%C3%A3o%20Simples_Esquem%C3%A1tico.png)
 
