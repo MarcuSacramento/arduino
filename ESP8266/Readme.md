@@ -45,3 +45,15 @@ https://petestechprojects.wordpress.com/2014/12/10/mini-server-on-arduino-esp826
 https://petestechprojects.wordpress.com/2014/12/03/auto-esp8266-server-init/
 https://petestechprojects.wordpress.com/2014/12/04/arduino-parsing-for-occurrence-of-string-from-serial-port/
 https://hackaday.io/project/5150-arduino-ide-for-esp8266-quickstart-guide
+
+http://www.martyncurrey.com/arduino-esp8266-web-server/
+http://randomnerdtutorials.com/esp8266-web-server/
+http://iot-playground.com/2-uncategorised/35-esp8266-firmware-update
+https://www.youtube.com/watch?v=Gh_pgqjfeQc
+http://mcuoneclipse.com/2014/11/30/tutorial-web-server-with-the-esp8266-wifi-module/
+http://nodemcu.com/index_en.html
+http://1br.de/simple-standalone-http-server-made-with-esp8266-and-nodemcu/
+http://bbs.espressif.com/viewtopic.php?f=5&t=154
+http://www.electrodragon.com/w/ESP8266_NodeMCU_Dev_Board
+https://www.openhomeautomation.net/control-a-lamp-remotely-using-the-esp8266-wifi-chip/
+https://petestechprojects.wordpress.com/2014/12/10/mini-server-on-arduino-esp8266/
